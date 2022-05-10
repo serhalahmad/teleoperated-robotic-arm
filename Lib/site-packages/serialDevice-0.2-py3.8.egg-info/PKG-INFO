@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: serialDevice
+Version: 0.2
+Summary: Simple class to abstract a device connected to a USB port
+Home-page: http://github.com/rgmaidana/serialDevice
+Author: Renan Maidana
+Author-email: renanmaidana@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

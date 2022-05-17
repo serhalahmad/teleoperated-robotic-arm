@@ -1,5 +1,6 @@
 # Teleoperated Robotic Hand
 <img src="Front view.jpeg" alt="Hand" title="Hand">
+Done by Ahmad Serhal, Elise Ghanem, Khaled El Madani, and Mohamed Smaili
 
 ## Description
 The biomechatronic system consists of a robotic hand that replicates the movements of an

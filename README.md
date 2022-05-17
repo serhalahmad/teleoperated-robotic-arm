@@ -1,5 +1,5 @@
 # Teleoperated Robotic Hand
-
+<img src="Front View.jpeg" alt="Hand" title="Hand">
 ## Description
 The biomechatronic system consists of a robotic hand that replicates the movements of an
 operator to simulate real-life teleoperation. The system components include the hand in question, 
